@@ -10,6 +10,6 @@ Dies ist das Repository zum Workshop "Upgrade Your Room With a Little Robot", de
 | [Material 02](/Material_02_Vorlage_Präsentation.pptx) |Hier befindet sich eine Vorlage für eine Präsentation |
 | [Material 03](/Material_03_Cozmo_Aufgabenstellung.pdf) | Kleine Aufagben um Cozmo kennenzulernen |
 | [Material 04](/Material_04_CozmoAusdrucke.pdf) |Cozmo und seine Würfel zum Ausdrucken für die Indeenfindung.|
-| [Material 05](/Material_05_Cozmos Animationen.pdf) |Eine Liste von Animationen, die Cozmo ausführen kann. |
+| [Material 05](/Material_05_Cozmos_Animationen.pdf) |Eine Liste von Animationen, die Cozmo ausführen kann. |
 
 
