@@ -11,4 +11,4 @@ Dies ist das Repository zum Workshop "Upgrade Your Room With a Little Robot", de
 | [Material 03](/Material_03_Cozmo_Aufgabenstellung.pdf) | Kleine Aufagben um Cozmo kennenzulernen |
 | [Material 04](/Material_04_CozmoAusdrucke.pdf) |Cozmo und seine Würfel zum Ausdrucken für die Indeenfindung.|
 | [Material 05](/Material_05_Cozmos_Animationen.pdf) |Eine Liste von Animationen, die Cozmo ausführen kann. |
-| [Material 06](/Material_06_Programmablauf.pdf) |Erklärung zum Programmablauf. |
+| [Material 06](/Material_06_Programmaufbau.pdf) |Erklärung zum Programmaufbau. |
