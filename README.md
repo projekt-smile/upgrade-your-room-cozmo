@@ -12,3 +12,6 @@ Dies ist das Repository zum Workshop "Upgrade Your Room With a Little Robot", de
 | [Material 04](/Material_04_CozmoAusdrucke.pdf) |Cozmo und seine Würfel zum Ausdrucken für die Indeenfindung.|
 | [Material 05](/Material_05_Cozmos_Animationen.pdf) |Eine Liste von Animationen, die Cozmo ausführen kann. |
 | [Material 06](/Material_06_Programmaufbau.pdf) |Erklärung zum Programmaufbau. |
+| [Material 07](/Material_07_Hilfekarten_v2.pdf) |Hilfekarten für den Cozmo und den Rapberry Pi. Diese sollten doppelseitig im A5-Format gedruckt werden. |
+
+
