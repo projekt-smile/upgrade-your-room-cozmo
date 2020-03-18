@@ -1,5 +1,7 @@
 # Allgemein
 
+Raspberry Pi Image unter https://1drv.ms/u/s!Aj8zEY-Zg-2xkWhEwrs8VKZRNTWP?e=S7b1pR.
+
 Dieses Image für den Raspberry Pi enthält alle benötigten Pakete um direkt mit dem Cozmo, einem Pi und einem Handy zu basteln.
 
 Bei der Betriebssoftware handelt es sich um Raspbian mit Desktopsupport. Zusätzlich wurde das [Cozmo SDK](http://cozmosdk.anki.com/docs/index.html), [Android Debug Bridge](https://developer.android.com/studio/command-line/adb), [GrovePi](https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/setting-software/) und, falls nicht vorher vorhanden, Python 3.5 installiert.
